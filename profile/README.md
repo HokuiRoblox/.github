@@ -23,7 +23,7 @@ Meet the people steering our creative vision and ensuring our projects achieve e
 ## 🌟 Current Projects
 We are actively working on exciting projects that push the boundaries of gaming:
 
-### 🔹 Hokui (Released! ✨)
+### 🔹 (Hokui)[https://www.roblox.com/communities/12720026/Hokui#!/about] (Released! ✨)
 Description: *Hokui is a recently established smoothie & acai bowl referenced bunch, incorporating numerous diverse procedures in style back to our carribean themed eatery. Our gather was made in hope to normalize the bowl and juice industry as an entirety. Each day our goal is to construct more upon as to what is ready to bring to the table for this benefit.*  
 Developers:  
 - Owner : Mathew
@@ -31,7 +31,7 @@ Developers:
 - Programmer : Lukey
 - UI Design : 7Kayoh
 
-### 🔹 Sprinklify (Nearing Release ⏱️)
+### 🔹 (Sprinklify)[https://www.roblox.com/communities/6151830/Sprinklify#!/about] (Nearing Release ⏱️)
 Description: *🧁 Sprinklify is a bakery filled with hard-working staff and a friendly, welcoming community! We serve an assortment of pastries to tasty drinks, you will get the experience you deserve by playing our games. Choose to either serve Customers or be served by our staff!*
 Developers:  
 - Owner : Mathew
@@ -42,7 +42,7 @@ Developers:
 - UI Design : 7Kayoh
 
 
-### 🔹 Fashion Frenzy (In Progress 🛠️)
+### 🔹 (Fashion Frenzy)[https://www.roblox.com/games/136198737215136/Fashion-Frenzy] (In Progress 🛠️)
 Description: *Fashion Frenzy is a round based game where you dress your best, compete in fashion shows, and earn rewards and prizes! Still in development but nearing completion.
 - Owner/Programmer : Dalton
 - Builder : Cyrphex
