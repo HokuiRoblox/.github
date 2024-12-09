@@ -1,6 +1,6 @@
-# ![Header Image](header-image-url) <!-- Replace with your header image link -->
+# ![Header Image](https://i.ibb.co/tBdn2Y6/Header.png) <!-- Replace with your header image link -->
 
-# Welcome to [Your Organization Name] 🎮
+# Welcome to [??? GAMES] 🎮
 
 Welcome to the official GitHub organization for games created and managed by **Dalton** and **Mathew**. Here, we showcase our passion for game development and teamwork, crafting immersive experiences for players around the globe.
 
