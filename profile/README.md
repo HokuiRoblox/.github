@@ -23,15 +23,29 @@ Meet the people steering our creative vision and ensuring our projects achieve e
 ## 🌟 Current Projects
 We are actively working on exciting projects that push the boundaries of gaming:
 
-### 🔹 Hokui
+### 🔹 Hokui (Released! ✨)
 Description: *Hokui is a recently established smoothie & acai bowl referenced bunch, incorporating numerous diverse procedures in style back to our carribean themed eatery. Our gather was made in hope to normalize the bowl and juice industry as an entirety. Each day our goal is to construct more upon as to what is ready to bring to the table for this benefit.*  
 Developers:  
-- *(Add the list of developers working on Hokui here)*  
+- Owner : Mathew
+- Co-Owner/Head Developer: Dalton
+- Programmer : Lukey
+- UI Design : 7Kayoh
 
-### 🔹 Sprinklify
+### 🔹 Sprinklify (Nearing Release ⏱️)
 Description: *🧁 Sprinklify is a bakery filled with hard-working staff and a friendly, welcoming community! We serve an assortment of pastries to tasty drinks, you will get the experience you deserve by playing our games. Choose to either serve Customers or be served by our staff!*
 Developers:  
-- *(Add the list of developers working on Sprinklify here)*  
+- Owner : Mathew
+- Co-Owner/Head Developer: Dalton
+- Programmer : NoDoubtJordan
+- Programmer : Lukey
+- Builder : xJay
+- UI Design : 7Kayoh
+
+
+### 🔹 Fashion Frenzy (In Progress 🛠️)
+Description: *Fashion Frenzy is a round based game where you dress your best, compete in fashion shows, and earn rewards and prizes! Still in development but nearing completion.
+- Owner/Programmer : Dalton
+- Builder : Cyrphex
 
 ---
 
