@@ -24,12 +24,12 @@ Meet the people steering our creative vision and ensuring our projects achieve e
 We are actively working on exciting projects that push the boundaries of gaming:
 
 ### 🔹 Hokui
-Description: *(Add a brief description of Hokui here)*  
+Description: *Hokui is a recently established smoothie & acai bowl referenced bunch, incorporating numerous diverse procedures in style back to our carribean themed eatery. Our gather was made in hope to normalize the bowl and juice industry as an entirety. Each day our goal is to construct more upon as to what is ready to bring to the table for this benefit.*  
 Developers:  
 - *(Add the list of developers working on Hokui here)*  
 
 ### 🔹 Sprinklify
-Description: *(Add a brief description of Sprinklify here)*  
+Description: *🧁 Sprinklify is a bakery filled with hard-working staff and a friendly, welcoming community! We serve an assortment of pastries to tasty drinks, you will get the experience you deserve by playing our games. Choose to either serve Customers or be served by our staff!*
 Developers:  
 - *(Add the list of developers working on Sprinklify here)*  
 
@@ -41,14 +41,7 @@ We’re always looking to collaborate with passionate developers, artists, and c
 ---
 
 ## 📩 Contact Us
-Have questions, feedback, or collaboration ideas? Reach out to us via GitHub or email us at **[your-email@example.com]**.
-
----
-
-### 🖼️ Adding the Header Image
-To update the header image:
-1. Replace the `header-image-url` in the first line with a link to your image.
-2. The image should ideally represent your organization's brand or theme.
+Have questions, feedback, or collaboration ideas? Reach out to us via GitHub or email us at **[dalton@daltonbauer.com]**.
 
 ---
 
